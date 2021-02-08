@@ -1,4 +1,5 @@
 # Launcher KIKI-RP (FiveM)
+## Téléchargement [ici](https://github.com/tovi34/launcher-kiki-rp/releases)
 Un Launcher simple (FiveM) pour le serveur (KIKI RP) avec actualisation automatique des stats et mise à jour automatique.
 ## Interface simple & sobre :
 ![Interface](https://i.gyazo.com/2b4313e4a4f7c2d9837a449493429a89.png)
@@ -10,3 +11,4 @@ Un Launcher simple (FiveM) pour le serveur (KIKI RP) avec actualisation automati
 vous pouvez scanner ce programme en cliquant [ici](https://www.virustotal.com/gui/)
 ### Ce programme comporte un certificat d'editeur reconnu par Microsoft
 ![Editor](https://cdn.discordapp.com/attachments/806313617632919564/808418937666011186/Windows10-cette-application-a-ete-bloquee-par-votre-administrateur-e.png)
+## Téléchargement [ici](https://github.com/tovi34/launcher-kiki-rp/releases)
